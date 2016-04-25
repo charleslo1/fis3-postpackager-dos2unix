@@ -1,0 +1,2 @@
+# fis3-postpackager-dos2unix
+fis3打包后将DOS格式文本文件转换成UNIX格式，使代码可直接在类UNIX系统运行
