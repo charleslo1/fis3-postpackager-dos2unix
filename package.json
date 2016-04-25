@@ -1,0 +1,30 @@
+{
+  "name": "fis3-postpackager-dos2unix",
+  "version": "1.0.0",
+  "description": "a fis3 dos2unix plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleslo1/fis3-postpackager-dos2unix.git"
+  },
+  "keywords": [
+    "fis3",
+    "plugin",
+    "dos2unix"
+  ],
+  "author": "Charles Lo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charleslo1/fis3-postpackager-dos2unix/issues"
+  },
+  "homepage": "https://github.com/charleslo1/fis3-postpackager-dos2unix#readme",
+  "dependencies": {
+    "dos2unix": "^1.1.2"
+  },
+  "devDependencies": {
+    "fis3": "^3.3.29"
+  }
+}
